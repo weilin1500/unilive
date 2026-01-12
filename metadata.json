@@ -1,0 +1,12 @@
+{
+  "name": "unilive",
+  "description": "A comprehensive social media super-app integrating live streaming, chats, and e-commerce with AI capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "display-capture"
+  ],
+  "aiStudioProjectId": "1_ExrvFiORYkWXX2shNgqjI4aFL11L13T",
+  "aiStudioUrl": "https://ai.studio/apps/drive/1_ExrvFiORYkWXX2shNgqjI4aFL11L13T"
+}
